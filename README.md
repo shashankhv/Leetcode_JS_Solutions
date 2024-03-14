@@ -1,2 +1,2 @@
-# Leetcode_JS_Solutions
-Solving Leetcode Using Javascript
+My LeetCode Journey
+This repository contains my solutions and progress as I tackle LeetCode coding challenges.
